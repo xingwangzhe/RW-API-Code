@@ -42,4 +42,10 @@ features:
     linkText: 让我们立刻开始吧！[开发中]
 ---
 
+::: info 镜像站点通知
 
+  本站 [rustedwarfare-code.needhelp.icu](https://rustedwarfare-code.needhelp.icu/) 及其[仓库](https://github.com/xingwangzhe/RW-API-Code)是[源站仓库](https://github.com/LingASDJ/RW-API-Code)及其[网站](https://rustedwarfareapicodelab.top)的镜像
+  
+  遵守 [Apache-2.0 协议](https://github.com/LingASDJ/RW-API-Code?tab=Apache-2.0-1-ov-file)。
+
+:::
